@@ -1,0 +1,26 @@
+<annotation>
+	<folder>example</folder>
+	<filename>13.png</filename>
+	<path>/home/kirillkiyko/Downloads/label.io/example/13.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>72</width>
+		<height>72</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>26</ymin>
+			<xmax>52</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>
